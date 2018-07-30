@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.ivybears.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.ivybears.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.ivybears.com/collections/men.atom"/>
+  <title>IVYBears</title>
+  <updated>2018-07-05T04:28:00-04:00</updated>
+  <author>
+    <name>IVYBears</name>
+  </author>
+  <entry>
+    <id>https://www.ivybears.com/products/684758401071</id>
+    <published>2018-07-05T04:28:00-04:00</published>
+    <updated>2018-07-05T04:28:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ivybears.com/products/ivybears®-men-monatspackung"/>
+    <title>IVYBEARS® MEN 1 MONTH</title>
+    <s:type>IVYBears</s:type>
+    <s:vendor>IVYBears®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0021/7032/2991/products/1-MEN.jpg?v=1530779065" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>IVYBears®<br />
+        <strong>Type: </strong>IVYBears<br />
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>SUPERCHARGE YOUR HAIR WITH IVYBEARS® </span></p>
+<p><span>IVYBEARS® are hair-vitamin-gummies that are easy to use and scientifically formulated to improve the hair of all types of men. </span><span> </span><span>Stop gulping down large, smelly, bad- tasting pills. Start enjoying your daily treat of sweet, delicious, berry flavored IVYBEARS®. </span></p>
+<p><span>We created a nourishing formula based on biotin, folic acid and vitamin C for a hair complex that is designed to provide important nutrients for healthy hair growth! </span></p>
+<ul class="uk-column-xlarge-1-2"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60</s:tag>
+    <s:tag>baer</s:tag>
+    <s:tag>Bear</s:tag>
+    <s:tag>bears</s:tag>
+    <s:tag>beer</s:tag>
+    <s:tag>biotin</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>boy</s:tag>
+    <s:tag>dose</s:tag>
+    <s:tag>dragees</s:tag>
+    <s:tag>female</s:tag>
+    <s:tag>folsäure</s:tag>
+    <s:tag>gesund</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>glutenfrei</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>grün</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>gummibear</s:tag>
+    <s:tag>gummibär</s:tag>
+    <s:tag>gummibärchen</s:tag>
+    <s:tag>haar</s:tag>
+    <s:tag>hair</s:tag>
+    <s:tag>halal</s:tag>
+    <s:tag>health</s:tag>
+    <s:tag>ivi</s:tag>
+    <s:tag>ivy</s:tag>
+    <s:tag>kosher</s:tag>
+    <s:tag>male</s:tag>
+    <s:tag>man</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>month</s:tag>
+    <s:tag>problem</s:tag>
+    <s:tag>skale</s:tag>
+    <s:tag>sojafrei</s:tag>
+    <s:tag>vegan</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:tag>veggy</s:tag>
+    <s:tag>vitamin</s:tag>
+    <s:tag>vitamine</s:tag>
+    <s:tag>wachstum</s:tag>
+    <s:tag>yvi</s:tag>
+    <s:tag>yvy</s:tag>
+    <s:variant>
+      <id>https://www.ivybears.com/products/684758401071</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku>1002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ivybears.com/products/684760596527</id>
+    <published>2018-07-05T04:27:00-04:00</published>
+    <updated>2018-07-05T04:27:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ivybears.com/products/ivybears®-men-6-monatspackungen"/>
+    <title>IVYBEARS® MEN 6 MONTHS</title>
+    <s:type>IVYBears</s:type>
+    <s:vendor>IVYBears®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0021/7032/2991/products/6-Men.jpg?v=1530779159" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>IVYBears®<br />
+        <strong>Type: </strong>IVYBears<br />
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>SUPERCHARGE YOUR HAIR WITH IVYBEARS® </span></p>
+<p><span>IVYBEARS® are hair-vitamin-gummies that are easy to use and scientifically formulated to improve the hair of all types of men. </span><span>Stop gulping down large, smelly, bad- tasting pills. Start enjoying your daily treat of sweet, delicious, berry flavored IVYBEARS®. </span></p>
+<p><span>We created a nourishing formula based on biotin, folic acid and vitamin C for a hair complex that is designed to provide important nutrients for healthy hair growth! </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60</s:tag>
+    <s:tag>baer</s:tag>
+    <s:tag>Bear</s:tag>
+    <s:tag>bears</s:tag>
+    <s:tag>beer</s:tag>
+    <s:tag>biotin</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>boy</s:tag>
+    <s:tag>dose</s:tag>
+    <s:tag>dragees</s:tag>
+    <s:tag>female</s:tag>
+    <s:tag>folsäure</s:tag>
+    <s:tag>gesund</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>glutenfrei</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>grün</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>gummibear</s:tag>
+    <s:tag>gummibär</s:tag>
+    <s:tag>gummibärchen</s:tag>
+    <s:tag>haar</s:tag>
+    <s:tag>hair</s:tag>
+    <s:tag>halal</s:tag>
+    <s:tag>health</s:tag>
+    <s:tag>ivi</s:tag>
+    <s:tag>ivy</s:tag>
+    <s:tag>kosher</s:tag>
+    <s:tag>male</s:tag>
+    <s:tag>man</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>month</s:tag>
+    <s:tag>problem</s:tag>
+    <s:tag>skale</s:tag>
+    <s:tag>sojafrei</s:tag>
+    <s:tag>vegan</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:tag>veggy</s:tag>
+    <s:tag>vitamin</s:tag>
+    <s:tag>vitamine</s:tag>
+    <s:tag>wachstum</s:tag>
+    <s:tag>yvi</s:tag>
+    <s:tag>yvy</s:tag>
+    <s:variant>
+      <id>https://www.ivybears.com/products/684760596527</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku>1001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ivybears.com/products/684759547951</id>
+    <published>2018-07-05T04:27:00-04:00</published>
+    <updated>2018-07-05T04:27:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ivybears.com/products/ivybears®-men-3-monatspackungen"/>
+    <title>IVYBEARS® MEN 3 MONTHS</title>
+    <s:type>IVYBears</s:type>
+    <s:vendor>IVYBears®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0021/7032/2991/products/3MEN.jpg?v=1530779109" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>IVYBears®<br />
+        <strong>Type: </strong>IVYBears<br />
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>SUPERCHARGE YOUR HAIR WITH IVYBEARS® </span></p>
+<p><span>IVYBEARS® are hair-vitamin-gummies that are easy to use and scientifically formulated to improve the hair of all types of men. </span><span> </span><span>Stop gulping down large, smelly, bad- tasting pills. Start enjoying your daily treat of sweet, delicious, berry flavored IVYBEARS®. </span></p>
+<p><span>We created a nourishing formula based on biotin, folic acid and vitamin C for a hair complex that is designed to provide important nutrients for healthy hair growth! </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60</s:tag>
+    <s:tag>baer</s:tag>
+    <s:tag>Bear</s:tag>
+    <s:tag>bears</s:tag>
+    <s:tag>beer</s:tag>
+    <s:tag>biotin</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>boy</s:tag>
+    <s:tag>dose</s:tag>
+    <s:tag>dragees</s:tag>
+    <s:tag>female</s:tag>
+    <s:tag>folsäure</s:tag>
+    <s:tag>gesund</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>glutenfrei</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>grün</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>Gummi</s:tag>
+    <s:tag>gummibear</s:tag>
+    <s:tag>gummibär</s:tag>
+    <s:tag>gummibärchen</s:tag>
+    <s:tag>haar</s:tag>
+    <s:tag>hair</s:tag>
+    <s:tag>halal</s:tag>
+    <s:tag>health</s:tag>
+    <s:tag>ivi</s:tag>
+    <s:tag>ivy</s:tag>
+    <s:tag>kosher</s:tag>
+    <s:tag>male</s:tag>
+    <s:tag>man</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>monate</s:tag>
+    <s:tag>month</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>problem</s:tag>
+    <s:tag>skale</s:tag>
+    <s:tag>sojafrei</s:tag>
+    <s:tag>vegan</s:tag>
+    <s:tag>veggie</s:tag>
+    <s:tag>veggy</s:tag>
+    <s:tag>vitamin</s:tag>
+    <s:tag>vitamine</s:tag>
+    <s:tag>vorrat</s:tag>
+    <s:tag>wachstum</s:tag>
+    <s:tag>yvi</s:tag>
+    <s:tag>yvy</s:tag>
+    <s:variant>
+      <id>https://www.ivybears.com/products/684759547951</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">39.95</s:price>
+      <s:sku>1004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

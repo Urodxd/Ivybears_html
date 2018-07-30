@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- This is the parent sitemap linking to additional sitemaps for products, collections and pages as shown below. The sitemap can not be edited manually, but is kept up to date in real time. -->
+  <sitemap>
+    <loc>https://www.ivybears.com/sitemap_products_1.xml?from=676594647087&amp;to=684760596527</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.ivybears.com/sitemap_pages_1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.ivybears.com/sitemap_collections_1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.ivybears.com/sitemap_blogs_1.xml</loc>
+  </sitemap>
+</sitemapindex>
